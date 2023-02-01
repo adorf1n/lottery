@@ -1,5 +1,3 @@
-function random() {
-  return 42;
-}
+function random() {}
 
 export default random;
